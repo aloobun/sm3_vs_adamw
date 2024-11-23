@@ -1,2 +1,2 @@
 # sm3_vs_adamw
-Dissecting SM3 and comparing with AdamW
+a few months ago, i learned about sm3 and im testing how sm3 & adamw behave in different setups. 
